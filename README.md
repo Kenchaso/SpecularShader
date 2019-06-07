@@ -1,6 +1,6 @@
 # SpecularShader for Unity
 
-##How to use
+#How to use
 
 ①Attach SpecularShader to a material in Unity
 
