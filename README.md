@@ -1,2 +1,1 @@
-ReflectionShader
-=======
+# SpecularShader for Unity
